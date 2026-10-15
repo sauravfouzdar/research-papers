@@ -58,3 +58,6 @@ Introduces **Proof of History (PoH)**, a verifiable delay function that serves a
 
 ### Efficient Memory Management for Large Language Model Serving with PagedAttention (2023)
 **Paper:** [arXiv:2309.06180](https://arxiv.org/abs/2309.06180)
+
+### An Introduction to Transformers
+**Paper:** [arXiv:2304.10557](https://arxiv.org/pdf/2304.10557)
