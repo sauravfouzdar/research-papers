@@ -61,3 +61,6 @@ Introduces **Proof of History (PoH)**, a verifiable delay function that serves a
 
 ### An Introduction to Transformers
 **Paper:** [arXiv:2304.10557](https://arxiv.org/pdf/2304.10557)
+
+### Attention Is All You Need
+**Paper:** [arXiv:1706.03762](https://arxiv.org/pdf/1706.03762)
